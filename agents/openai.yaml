@@ -1,0 +1,3 @@
+interface:
+  display_name: "Sane Pull Requests"
+  short_description: "Small coherent PRs with audited dependency stacks"
